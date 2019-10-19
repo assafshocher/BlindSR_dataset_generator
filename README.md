@@ -4,8 +4,8 @@ This is used for Blind Super-Resolution challenges where the downscaling kernel 
 
 ----------
 This code was used to create the dataset for the paper:
-KernelGAN: Blind Super-Resolution Kernel Estimation using an Internal-GAN (Bell-Kligler, Shocher, Irani)
-Repository of KernelGAN: https://github.com/sefibk/KernelGAN
+KernelGAN: Blind Super-Resolution Kernel Estimation using an Internal-GAN (Bell-Kligler, Shocher, Irani)  
+Repository of KernelGAN: https://github.com/sefibk/KernelGAN  
 Project page: http://www.wisdom.weizmann.ac.il/~vision/kernelgan/
 
 ----------------------
